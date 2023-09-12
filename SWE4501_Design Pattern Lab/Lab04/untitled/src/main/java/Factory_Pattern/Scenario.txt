@@ -1,0 +1,1 @@
+Suppose you are building a simple e-commerce application that sells electronic devices like smartphones, laptops, and tablets. Each of these devices has different specifications and features.
