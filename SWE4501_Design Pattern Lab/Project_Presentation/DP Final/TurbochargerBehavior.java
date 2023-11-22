@@ -1,0 +1,4 @@
+
+interface TurbochargerBehavior {
+    void turbochargerInfo();
+}
